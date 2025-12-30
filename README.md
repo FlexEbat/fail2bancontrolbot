@@ -1,9 +1,3 @@
-Here is the clean `README.md` file for your GitHub repository. I have removed all comments from the code as requested.
-
-***
-
-# Fail2Ban Telegram Bot
-
 A Python-based Telegram bot to control Fail2Ban and receive automatic notifications about banned IPs.
 
 ## Features
