@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pip](https://img.shields.io/badge/pip-v23+-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Protected-red?style=for-the-badge&logo=guard&logoColor=white)
+
+### 🇷🇺 [ИНСТРУКЦИЯ НА РУССКОМ (Russian Manual)](./readme_rus.md)
+
 A Python-based Telegram bot to control Fail2Ban and receive automatic notifications about banned IPs.
 
 ## Features
